@@ -6,3 +6,4 @@
  * Time: 21:09
  */
 echo 'Hello,World';
+echo 'Hello,World';
